@@ -204,3 +204,29 @@ Ejecutada: La práctica está presente en la forma de trabajo del departamento y
 
 Meta específica: Características únicas que deben estar presentes para satisfacer el área de proceso.
 Práctica específica: Descripción de una actividad importante para lograr la meta específica asociada.
+
+
+## 29 de febrero
+
+### Estrategia Técnica
+
+DAD - Objetivos Continuos:
+- Cumplir con la misión del proyecto
+- Desarrollar las habilidades de los miembros del equipo
+- Encargarse de los riesgos
+- Mejorar el proceso del equipo y el ambiente
+- Mejorar la infraestructura existente
+
+Estrategias para la resolución de conflictos:
+
+## 4 de marzo
+
+### Gestión de la configuración
+
+En el desarrollo de software, los cambios, debidos principalmente a modificaciones de requisitos y fallos, son casi inevitables. Cuando se trabaja en equipo es preciso llevar un control y registro de los cambios con el fin de reducir errores, aumentar la calidad y la productividad y evitar los problemas que puede acarrear una incorrecta sincronización en dichos cambios, al afectar a otros elementos del sistema o a las tareas realizadas por otros miembros del proyecto.
+
+Este proceso define lineamientos y pautas para administrar la configuración del proyecto de forma simple, de tal manera que se conserve la integridad de los productos de trabajo durante la ejecución del proyecto. El resultado de este proceso de ingeniería se puede definir en 3 fases:
+
+- Área de Proceso de Gestión de la Configuración: El propósito de la gestión de configuración es establecer y mantener la identidad de los productos de trabajo utilizando: identificación de la configuración, control de la configuración, reporte de estado, auditorías.
+
+
