@@ -230,3 +230,108 @@ Este proceso define lineamientos y pautas para administrar la configuración del
 - Área de Proceso de Gestión de la Configuración: El propósito de la gestión de configuración es establecer y mantener la identidad de los productos de trabajo utilizando: identificación de la configuración, control de la configuración, reporte de estado, auditorías.
 
 
+## 2 de abril
+
+### Reporte de estado
+
+Brinda una visión general del estado actual del proyecto para poder controlarlo. Deben:
+- Ser transparentes
+- Facilitar la toma de decisiones
+- Permitir escalar impedimentos oportunamente
+- Permitir la identificación y atención de riesgos
+- Crear un sentimiento de responsabilidad en el equipo
+
+Inicialmente, en el reporte de estado, se responden las siguientes 3 preguntas:
+1. ¿Dónde estamos?
+2. ¿Dónde deberíamos estar?
+3. ¿Cuánto nos ha costado? (horas)
+
+
+## 4 de abril
+
+### Verificación
+
+Los patrones son actividades típicas de un equipo exitoso. Los antipatrones son actividades típicas de un equipo que no es exitoso.
+
+Patrones de la fase de construcción:
+- El equipo puede demostrar incrementos de software al final de cada iteración
+- Los miembros de equipo terminan sus tareas de manera adelantada a la planeación y se ofrecen voluntariamente a apoyar a sus compañeros con sus tareas
+- Las fechas de la iteración no se mueven
+- Cualquier stakeholder puede llegar en cualquier momento al área de trabajo y pedir ver una demostración de software funcionando
+
+Antipatrones de la fase de construcción:
+- Un ítem de trabajo en la lista es demasiado grande para ser fácilmente gestionado y comprendido
+- Falta de atención a la mitigación de riesgos
+- Asumir que la arquitectura va a funcionar sin probarla con código
+- Asumir que un enfoque iterativo por sí mismo asegura qye se va a construir la solución adecuada de una manera efectiva
+- No se finaliza un ítem de trabajo
+- Se entrega algo distinto a lo planeado al final de la iteración
+- Durante la iteración perdimos algunas tareas que se planearon para la iteración
+- Durante la iteración nos dimos cuenta que faltó incluir un requerimiento del cual depende uno de nuestros requerimientos
+- Durante la sesión de planeación de la iteración, del dueño del producto está tratando de decidir qué nuevos ítemos deben agregarse o repriorizarse
+- El número de defectos se incrementa cada iteración
+
+
+Verificar es asegurarte de hacer el producto correcto de la manera correcto. Es un intento para encontrar defectos en el software, así como el proceso de probar que el software es correcto.
+
+Un defecto es un problema causado por humanos que ocasiona que una aplicación de software se detenga o produzca resultados incorrectos.
+- Defectos de comisión: Cuando los desarrolladores hacen algo mal
+- Defectos de omisión: Cuando los desarrolladores fallan en anticipar una condición en específico.
+
+
+## 8 de abril
+
+### Líneas base
+
+La configuración cuenta con 3 niveles:
+1. Dinámico: No requiere ningún tipo de control. Todo lo que llega al proyecto, llega a este nivel.
+2. Controlado: Cuando se requiere controlar la configuración de un ítem, se pasa del nivel dinámico al controlado.
+3. Estático: Los ítems de trabajo están listos, por lo que se dice que son estáticos. La línea base siempre se encuentra en este nivel.
+
+La gestión de la configuración tiene como fin que todos los interesados de un proyecto tengan acceso a la versión correcta de un producto de trabajo.
+
+### Medición de equipos ágiles
+
+Es importante monitorear los equipos para poder mejorarlos. Las métricas sirven para tener una referencia al momento de tomar decisiones y realizar cambios de comportamiento.
+Existen métricas escalares (números), de tendencia y de lista.
+
+Los principios del desarrollo ágil sobre las métricas son las siguientes:
+- Cada métrica tiene sus fortalezas y debilidades
+- Compite contra ti mismo
+- Medir para mejorar
+- Obtienes lo que mides
+- Cada equipo necesita un conjunto único de métricas
+- Las métricas se utilizan para que los equipos se autogestionen
+- Confía, pero verifica
+- Adopta categorías comunes de métricas con los equipos
+- Habla con las personas, no gestiones sólo con base en las métricas
+- Mide equipos, no individuos
+- Obtén varias métricas
+- Las tendencias son mejores que los valores escalares
+- La observación empírica es importante pero es limitada
+- El valor de las métricas disminuye con el tiempo
+- Favorece las métricas automatizadas
+- Algunas métricas deben obtenerse de manera manual
+- Favorece el enfoque pull (dashboards) sobre el push (reportes)
+- Si no obtienes métricas, estás caminando a ciegas
+- Si obtienes demasiadas métricas, estás caminando a ciegas
+
+Cómo medir equipos ágiles?
+
+1. Identifica los objetivos de mejora
+2. Genera preguntas que definan esos objetivos como completamente posibles de una manera cuantificable
+3. Identifica medidas potenciales que deban ser recoletadas para responder las preguntas
+4. Introduce mecanismos para la recolección de datos
+5. Recolecta, valida y analiza los datos en tiempo real para poveer retroalimentación a los equipos y que tomen acciones correctivas
+
+
+## 22 de abril
+
+### Mejora continua
+
+Objetivos continuos (DAD):
+- Cumplir con la misión del proyecto
+- Desarrollar las habilidades de los miembros del equipo
+- Encargarse de los riesgos
+- Mejorar el proceso del equipo y el ambiente
+- Mejorar la infraestructura existente  
